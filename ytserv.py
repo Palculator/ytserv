@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import argparse
 import re
 import urllib.parse
